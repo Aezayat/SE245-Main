@@ -6,12 +6,8 @@ Program Prompt:
 2. Asks users to enter a number of employees, or handle the number of employees dynamically.
 3. Input: name, hours worked, hourly rate, along with taxes deducted based on tax bracket and store each in a series of lists.
 4. For each employee, loop through the lists, calculate the pay, and display it with the person’s name.
-5. Calculate and display the average income.
-*/
+5. Calculate and display the average income. */
 
-// Import necessary libraries
-using System;
-using System.Collections.Generic;
 
 class Program
 {
@@ -72,7 +68,7 @@ class Program
             taxDeducted.Add(taxAmount);
 
             // Display individual employee's pay
-            Console.WriteLine($"\n{name}'s gross pay is: ${grossPay:F2}");
+            Console.WriteLine($"\n{name}'s gross pay is: ${grossPay:}");
             Console.WriteLine($"{name}'s net pay is: ${netPay:F2} after {taxBracket}% tax");
         }
 
