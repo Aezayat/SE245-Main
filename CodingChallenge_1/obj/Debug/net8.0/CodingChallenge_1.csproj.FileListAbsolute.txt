@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\bin\Debug\net8.0\CodingChallenge_1.exe
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\bin\Debug\net8.0\CodingChallenge_1.deps.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\bin\Debug\net8.0\CodingChallenge_1.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\bin\Debug\net8.0\CodingChallenge_1.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\bin\Debug\net8.0\CodingChallenge_1.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\obj\Debug\net8.0\CodingChallenge_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\obj\Debug\net8.0\CodingChallenge_1.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\obj\Debug\net8.0\CodingChallenge_1.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\obj\Debug\net8.0\CodingChallenge_1.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\obj\Debug\net8.0\CodingChallenge_1.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\obj\Debug\net8.0\CodingChallenge_1.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\obj\Debug\net8.0\refint\CodingChallenge_1.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\obj\Debug\net8.0\CodingChallenge_1.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\obj\Debug\net8.0\CodingChallenge_1.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\CodingChallenge_1\obj\Debug\net8.0\ref\CodingChallenge_1.dll

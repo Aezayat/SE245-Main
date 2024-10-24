@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\obj\Debug\net8.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\obj\Debug\net8.0\Constants.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\obj\Debug\net8.0\Constants.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\obj\Debug\net8.0\Constants.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\obj\Debug\net8.0\Constants.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\bin\Debug\net8.0\Constants.exe
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\bin\Debug\net8.0\Constants.deps.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\bin\Debug\net8.0\Constants.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\bin\Debug\net8.0\Constants.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\bin\Debug\net8.0\Constants.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\obj\Debug\net8.0\Constants.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\obj\Debug\net8.0\refint\Constants.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\obj\Debug\net8.0\Constants.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\obj\Debug\net8.0\Constants.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\Constants\obj\Debug\net8.0\ref\Constants.dll

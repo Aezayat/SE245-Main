@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\bin\Debug\net8.0\lab2.exe
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\bin\Debug\net8.0\lab2.deps.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\bin\Debug\net8.0\lab2.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\bin\Debug\net8.0\lab2.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\bin\Debug\net8.0\lab2.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\obj\Debug\net8.0\lab2.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\obj\Debug\net8.0\lab2.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\obj\Debug\net8.0\refint\lab2.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\obj\Debug\net8.0\lab2.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\lab2\obj\Debug\net8.0\ref\lab2.dll

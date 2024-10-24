@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\obj\Debug\net8.0\User Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\obj\Debug\net8.0\User Input.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\obj\Debug\net8.0\User Input.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\obj\Debug\net8.0\User Input.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\obj\Debug\net8.0\User Input.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\bin\Debug\net8.0\User Input.exe
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\bin\Debug\net8.0\User Input.deps.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\bin\Debug\net8.0\User Input.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\bin\Debug\net8.0\User Input.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\bin\Debug\net8.0\User Input.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\obj\Debug\net8.0\User Input.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\obj\Debug\net8.0\refint\User Input.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\obj\Debug\net8.0\User Input.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\obj\Debug\net8.0\User Input.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\User Input\obj\Debug\net8.0\ref\User Input.dll
