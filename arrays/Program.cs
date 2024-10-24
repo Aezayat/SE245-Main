@@ -2,10 +2,10 @@
 class Program
 {
 
-    static void (string[] args)
-
-    // arrow = a variable that can store multiple values. fixed size
-    String[] cars = {"BMW", "Mustang", "Corvette"};
+    static void Main(string[] args)
+    {
+        // arrow = a variable that can store multiple values. fixed size
+        String[] cars = { "BMW", "Mustang", "Corvette" };
 
         cars[0] = "Tesla";
 
@@ -16,3 +16,6 @@ class Program
 
         Console.ReadKey();
     }
+
+}
+
