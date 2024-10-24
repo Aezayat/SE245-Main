@@ -1,88 +1,90 @@
-﻿class Payroll
+﻿// Alex Zayat
+// 10-10-24
+/* 
+Program Prompt:
+1. Calculates and displays employee pay for a 40-hour work week.
+2. Asks users to enter a number of employees, or handle the number of employees dynamically.
+3. Input: name, hours worked, hourly rate, along with taxes deducted based on tax bracket and store each in a series of lists.
+4. For each employee, loop through the lists, calculate the pay, and display it with the person’s name.
+5. Calculate and display the average income.
+*/
+
+// Import necessary libraries
+using System;
+using System.Collections.Generic;
+
+class Program
 {
-    // Method to calculate tax based on income brackets (Return Method)
-    static double CalculateTax(double income)
-    {
-        if (income <= 1000)
-        {
-            return income * 0.10; // 10% tax
-        }
-        else if (income <= 2000)
-        {
-            return income * 0.15; // 15% tax
-        }
-        else
-        {
-            return income * 0.20; // 20% tax
-        }
-    }
-
-    // Method to calculate gross pay (Return Method)
-    static double CalculateGrossPay(double hours, double rate)
-    {
-        return hours * rate;
-    }
-
-    // Method to process payroll (By Reference Method)
-    static void ProcessPayroll(List<string> names, List<double> hours, List<double> rates, ref List<double> grossPay, ref List<double> netPay)
-    {
-        for (int i = 0; i < names.Count; i++)
-        {
-            // Calculate gross pay
-            double gross = CalculateGrossPay(hours[i], rates[i]);
-            grossPay.Add(gross);
-
-            // Calculate taxes
-            double tax = CalculateTax(gross);
-
-            // Calculate net pay
-            double net = gross - tax;
-            netPay.Add(net);
-        }
-    }
-
-    // Void Method to display payroll information
-    static void DisplayPayroll(List<string> names, List<double> grossPay, List<double> netPay)
-    {
-        for (int i = 0; i < names.Count; i++)
-        {
-            Console.WriteLine($"Employee: {names[i]}");
-            Console.WriteLine($"Gross Pay: ${grossPay[i]:F2}");
-            Console.WriteLine($"Net Pay: ${netPay[i]:F2}\n");
-        }
-    }
-
-    // Method to calculate and return the average net pay (Return Method)
-    static double CalculateAverageNetPay(List<double> netPay)
-    {
-        double total = 0;
-        foreach (double net in netPay)
-        {
-            total += net;
-        }
-        return total / netPay.Count;
-    }
-
-    // Main Method
     static void Main(string[] args)
     {
-        // Employee data
-        List<string> names = new List<string> { "John Doe", "Jane Smith", "Alice Johnson", "Bob Brown" };
-        List<double> hoursWorked = new List<double> { 40, 35, 45, 50 }; // Hours worked by each employee
-        List<double> hourlyRates = new List<double> { 25, 30, 20, 22 };  // Hourly rate for each employee
+        // Declare Variable
+        int empCounter; // Employee counter
 
-        // Lists to store payroll data (passed by reference)
-        List<double> grossPay = new List<double>();
-        List<double> netPay = new List<double>();
+        // Lists to store employee data
+        List<string> names = new List<string>();
+        List<double> hoursWorked = new List<double>();
+        List<double> hourlyRates = new List<double>();
+        List<double> taxDeducted = new List<double>();
 
-        // Process payroll (By Ref)
-        ProcessPayroll(names, hoursWorked, hourlyRates, ref grossPay, ref netPay);
+        // Function to calculate net pay after taxes
+        double CalculateNetPay(double grossPay, double taxAmount)
+        {
+            return grossPay - taxAmount;
+        }
 
-        // Display payroll (Void)
-        DisplayPayroll(names, grossPay, netPay);
+        // Function to determine tax bracket based on gross income
+        double DetermineTaxBracket(double grossPay)
+        {
+            if (grossPay <= 1000)
+                return 10;  // 10% tax
+            else
+                return 20;  // 20% tax
+        }
 
-        // Calculate and display average net pay (Return)
-        double averageNetPay = CalculateAverageNetPay(netPay);
-        Console.WriteLine($"Average Net Pay: ${averageNetPay:F2}");
+        // Ask for the number of employees
+        Console.Write("Enter the number of employees: ");
+        empCounter = int.Parse(Console.ReadLine());
+
+        // Input details for each employee
+        for (int i = 0; i < empCounter; i++)
+        {
+            Console.Write($"\nEnter name of employee {i + 1}: ");
+            string name = Console.ReadLine();
+
+            Console.Write($"Enter hours worked by {name}: ");
+            double hours = double.Parse(Console.ReadLine());
+
+            Console.Write($"Enter hourly rate for {name}: ");
+            double rate = double.Parse(Console.ReadLine());
+
+            // Calculate gross pay and tax bracket
+            double grossPay = hours * rate;
+            double taxBracket = DetermineTaxBracket(grossPay);
+            double taxAmount = grossPay * (taxBracket / 100);
+
+            // Calculate net pay
+            double netPay = CalculateNetPay(grossPay, taxAmount);
+
+            // Store data in lists
+            names.Add(name);
+            hoursWorked.Add(hours);
+            hourlyRates.Add(rate);
+            taxDeducted.Add(taxAmount);
+
+            // Display individual employee's pay
+            Console.WriteLine($"\n{name}'s gross pay is: ${grossPay:F2}");
+            Console.WriteLine($"{name}'s net pay is: ${netPay:F2} after {taxBracket}% tax");
+        }
+
+        // Calculate and display the average income
+        double totalNetPay = 0;
+        for (int i = 0; i < empCounter; i++)
+        {
+            double grossPay = hoursWorked[i] * hourlyRates[i];
+            totalNetPay += CalculateNetPay(grossPay, taxDeducted[i]);
+        }
+
+        double averageIncome = totalNetPay / empCounter;
+        Console.WriteLine($"\nThe average net income of all employees is: ${averageIncome:F2}");
     }
 }
