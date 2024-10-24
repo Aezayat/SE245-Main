@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\C#\\CodingChallenge_1\\CodingChallenge_1.csproj": {}
+    "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\C#\\week1\\CodingChallenge_1\\CodingChallenge_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\C#\\CodingChallenge_1\\CodingChallenge_1.csproj": {
+    "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\C#\\week1\\CodingChallenge_1\\CodingChallenge_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\C#\\CodingChallenge_1\\CodingChallenge_1.csproj",
+        "projectUniqueName": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\C#\\week1\\CodingChallenge_1\\CodingChallenge_1.csproj",
         "projectName": "CodingChallenge_1",
-        "projectPath": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\C#\\CodingChallenge_1\\CodingChallenge_1.csproj",
+        "projectPath": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\C#\\week1\\CodingChallenge_1\\CodingChallenge_1.csproj",
         "packagesPath": "C:\\Users\\alexz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\C#\\CodingChallenge_1\\obj\\",
+        "outputPath": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\C#\\week1\\CodingChallenge_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexz\\AppData\\Roaming\\NuGet\\NuGet.Config"
