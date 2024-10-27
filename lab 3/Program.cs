@@ -1,5 +1,5 @@
 ﻿// Alex Zayat
-// 10-10-24
+// 10-24-24
 /* 
 Program Prompt:
 1. Calculates and displays employee pay for a 40-hour work week.

@@ -21,6 +21,7 @@ class Program
         bool alive = true; //True or False
         char symbol = '@';
         string name = "Me";
+        
 
         Console.WriteLine("Hello " + name);
         Console.WriteLine("Your age is " + age);

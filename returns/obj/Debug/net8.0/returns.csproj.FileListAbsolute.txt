@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\obj\Debug\net8.0\returns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\obj\Debug\net8.0\returns.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\obj\Debug\net8.0\returns.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\obj\Debug\net8.0\returns.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\obj\Debug\net8.0\returns.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\bin\Debug\net8.0\returns.exe
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\bin\Debug\net8.0\returns.deps.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\bin\Debug\net8.0\returns.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\bin\Debug\net8.0\returns.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\bin\Debug\net8.0\returns.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\obj\Debug\net8.0\returns.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\obj\Debug\net8.0\refint\returns.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\obj\Debug\net8.0\returns.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\obj\Debug\net8.0\returns.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\returns\obj\Debug\net8.0\ref\returns.dll

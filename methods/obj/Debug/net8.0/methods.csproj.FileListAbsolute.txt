@@ -1,0 +1,15 @@
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\obj\Debug\net8.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\obj\Debug\net8.0\methods.AssemblyInfoInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\obj\Debug\net8.0\methods.AssemblyInfo.cs
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\obj\Debug\net8.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\obj\Debug\net8.0\methods.sourcelink.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\bin\Debug\net8.0\methods.exe
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\bin\Debug\net8.0\methods.deps.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\bin\Debug\net8.0\methods.runtimeconfig.json
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\bin\Debug\net8.0\methods.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\bin\Debug\net8.0\methods.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\obj\Debug\net8.0\methods.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\obj\Debug\net8.0\refint\methods.dll
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\obj\Debug\net8.0\methods.pdb
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\obj\Debug\net8.0\methods.genruntimeconfig.cache
+C:\Users\alexz\OneDrive\Desktop\SE245-Main\methods\obj\Debug\net8.0\ref\methods.dll
