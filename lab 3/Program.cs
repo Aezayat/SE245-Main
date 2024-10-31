@@ -68,7 +68,7 @@ class Program
             taxDeducted.Add(taxAmount);
 
             // Display individual employee's pay
-            Console.WriteLine($"\n{name}'s gross pay is: ${grossPay:}");
+            Console.WriteLine($"\n{name}'s gross pay is: ${grossPay}");
             Console.WriteLine($"{name}'s net pay is: ${netPay:F2} after {taxBracket}% tax");
         }
 
