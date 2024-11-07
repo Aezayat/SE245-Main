@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "SsbUKSdQkFs=",
+=======
+  "dgSpecHash": "WeInbnQqZxY=",
+>>>>>>> 46be93e05e9e3b2652ca66f270fe1421844c3732
   "success": true,
-  "projectFilePath": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\methods\\methods.csproj",
+  "projectFilePath": "C:\\Users\\008025008\\Desktop\\SE245-Main\\methods\\methods.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

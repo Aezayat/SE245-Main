@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "HHyH/Z4in8U=",
+=======
+  "dgSpecHash": "Bz+yW/y1Rbk=",
+>>>>>>> 46be93e05e9e3b2652ca66f270fe1421844c3732
   "success": true,
-  "projectFilePath": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\CodingChallenge_1\\CodingChallenge_1.csproj",
+  "projectFilePath": "C:\\Users\\008025008\\Desktop\\SE245-Main\\CodingChallenge_1\\CodingChallenge_1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
