@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\008025008\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\alexz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\008025008\\Desktop\\SE245-Main\\lab 3\\lab 3.csproj",
+      "projectUniqueName": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\lab 3\\lab 3.csproj",
       "projectName": "lab 3",
-      "projectPath": "C:\\Users\\008025008\\Desktop\\SE245-Main\\lab 3\\lab 3.csproj",
-      "packagesPath": "C:\\Users\\008025008\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\008025008\\Desktop\\SE245-Main\\lab 3\\obj\\",
+      "projectPath": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\lab 3\\lab 3.csproj",
+      "packagesPath": "C:\\Users\\alexz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexz\\OneDrive\\Desktop\\SE245-Main\\lab 3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\008025008\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\alexz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
